@@ -35,4 +35,8 @@ class SettingsViewController: UIViewController {
     }
     */
 
+    @IBAction func closeSettingsButtonPressed(sender: AnyObject) {
+        dismissViewControllerAnimated(true, completion: nil)
+
+    }
 }

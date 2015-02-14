@@ -6,7 +6,7 @@ A prototype of the Carousel iOS app.
 How many hours did it take to complete?
 - Took about 10-12 hours
 
-What did you complete
+What did you complete?
 
 Intro
 - Static photo tiles on the initial screen

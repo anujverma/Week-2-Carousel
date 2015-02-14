@@ -23,7 +23,7 @@ Sign In
 - Optional: Tapping the Agree to Terms checkbox selects the checkbox.
 - Optional: Tapping on Terms shows a webview with the terms.
 - Optional: User is taken to the tutorial screens upon tapping the "Create a Dropbox" button.
-- 
+
 Tutorial Screens
 - User can page between the screens
 - Optional: User can page between the screens with updated dots

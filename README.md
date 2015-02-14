@@ -4,8 +4,8 @@ Week-2-Dropbox-Prototype
 A prototype of the Carousel iOS app.
 
 How many hours did it take to complete?
-- Took about 10-12 hours.
-- 
+- Took about 10-12 hours
+
 What did you complete
 
 Intro
@@ -37,3 +37,5 @@ Image Timeline
 Settings
 - User can dismiss the settings screen.
 - User can log out
+
+![alt tag](https://github.com/anujverma/Week-2-Carousel/blob/master/Week-2-Carousel.gif)

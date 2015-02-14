@@ -74,6 +74,10 @@ class SignInViewController: UIViewController {
     
 
     
+    @IBAction func signInBackButtonPressed(sender: AnyObject) {
+        dismissViewControllerAnimated(true, completion: nil)
+
+    }
     
 
 }
